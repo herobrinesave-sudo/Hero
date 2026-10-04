@@ -1,0 +1,6 @@
+{
+  "name": "Pro AI",
+  "description": "Futuristic AI assistant powered by Gemini intelligence with chat, voice, and image modes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
